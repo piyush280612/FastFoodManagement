@@ -17,11 +17,48 @@ Java (Core logic, OOP principles)
 Scanner (java.util.Scanner) (For user input handling)
 GitHub (Version control & collaboration)
 
-📂 Project Structure
+Example Output
 
-📁 MealOrderingSystem
-│── 📄 Hamburger.java  # Handles burger customization
-│── 📄 Drink.java      # Handles drink selection & pricing
-│── 📄 SideItem.java   # Handles side item choices & pricing
-│── 📄 MealOrder.java  # Manages the full meal order & pricing
-│── 📄 Main.java       # Runs the application & displays order details
+🍔 Meal Order Details:
+
+✅ Order Summary:
+🍔 Burger Type: Cheese Burger
+🔢 Quantity: 2
+🥗 Toppings: Lettuce Onion Bacon
+💰 Price: $22.0
+🍟 The food item chosen is: Garlic Bread costing $15.0
+🥤 Drink: Pepsi (500ml) - $20.0
+💰 Total Cost: $57.0
+
+========================
+
+🍔 Meal Order Details:
+
+✅ Order Summary:
+🍔 Burger Type: Regular Burger
+🔢 Quantity: 1
+🥗 Toppings: Lettuce Tomato Cheese
+💰 Price: $11.5
+🍟 The food item chosen is: Fries costing $10.0
+🥤 Drink: Coke (300ml) - $10.0
+💰 Total Cost: $31.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
